@@ -1,0 +1,6 @@
+{
+  "mode": "demo",
+  "scanTarget": "example.invalid",
+  "credentialsIncluded": false,
+  "note": "Illustrative configuration only"
+}
